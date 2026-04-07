@@ -5,13 +5,13 @@ Bem vindo!! 👋
 ###  Como é organizado o repositório?
 O repo tem 3 pastas:
 
-### 📁 *conteudos_dados*
-  
-- **Mostra o que eu passei em tal monitoria, separado por data.**
-
 ### 📁 *anotacoes*
 
 - **Lugar onde é guardado "fórmulas", códigos prontos para revisões.**
+
+### 📁 *conteudos_dados*
+  
+- **Mostra o que eu passei em tal monitoria, separado por data.**
 
 ### 📁 *exercicios*
 
