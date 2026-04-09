@@ -21,5 +21,7 @@ int main(){
     imprimirLista(li);
     printf("Tamanho da Lista: %d\n",tamanhoLista(li));
 
+    free(li);
+
     return 0;
 }
