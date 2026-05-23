@@ -12,6 +12,15 @@ int main(){
 
     imprimirLista(li);
 
+    // Vou imprimir o anterior do elemento 2
+
+    //                        V - Aqui, acesso o 1    
+    //                        v     V - Aqui, é o 2
+    //                        v     v     V - Aqui, é o anterior do 2
+    int valorAnteriorDo2 = (*li)->prox->ante->valor;
+
+    printf("Anterior do 2: %d\n", valorAnteriorDo2);
+
     printf("\n");
 
     free(li);
